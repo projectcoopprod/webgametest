@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Anong modelo ng sasakyan ang ginamit ni Fidel V. Ramos?",
+      "options": ["Cadillac Fleetwood", "Mercedes-Benz S-Class", "Lincoln Town Car", "BMW 7 Series"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anong taon nagsimula ang panunungkulan ni Ramos?",
+      "options": ["1991", "1992", "1993", "1994"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ano ang naging simbolismo ng Cadillac Fleetwood sa panahon ni Ramos?",
+      "options": ["Disiplina at modernisasyon", "Kapangyarihan at luho", "Pang-masa", "Kolonyalismo"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ano ang pangunahing programa ni Ramos?",
+      "options": ["Philippines 2000", "Filipino First Policy", "Bagong Lipunan", "People Power II"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ilang taon nanungkulan si Ramos?",
+      "options": ["4", "5", "6", "7"],
+      "correctIndex": 2
+    }
+  ]
+}

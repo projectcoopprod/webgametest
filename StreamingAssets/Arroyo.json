@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Anong modelo ng sasakyan ang ginamit ni Gloria Macapagal-Arroyo?",
+      "options": ["Mercedes-Benz S600", "Cadillac DTS", "BMW 7 Series", "Toyota Crown"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anong taon nagsimula ang panunungkulan ni Arroyo?",
+      "options": ["1999", "2000", "2001", "2002"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ano ang simbolismo ng Mercedes-Benz S600?",
+      "options": ["Katanyagan at awtoridad", "Pagkamaka-masa", "Pag-unlad ng ekonomiya", "Pagpapakumbaba"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ano ang pangunahing programang pang-ekonomiya ni Arroyo?",
+      "options": ["Philippines 2000", "Strong Republic", "Build, Build, Build", "Filipino First Policy"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ilang taon nanungkulan si Arroyo?",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 3
+    }
+  ]
+}

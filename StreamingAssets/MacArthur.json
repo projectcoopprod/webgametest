@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Sino ang unang gumamit ng Cadillac V16 bilang pampangulong sasakyan?",
+      "options": ["Jose P. Laurel", "Manuel L. Quezon", "Sergio Osmeña", "Douglas MacArthur"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kailan ipinasa ang Cadillac V16 kay Heneral MacArthur?",
+      "options": ["1935", "1936", "1937", "1938"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ano ang uri ng katawan (body style) ng sasakyan?",
+      "options": ["Coupe", "Sedan", "Transformable Town Cabriolet", "Roadster"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ilang pasahero ang kayang isakay ng Cadillac V16?",
+      "options": ["4", "5", "6", "7"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anong mas bagong kotse ang pumalit dito bilang sasakyang pang-estado?",
+      "options": ["Chrysler Airflow", "Packard Super Eight", "Cadillac Series 75", "Rolls-Royce Phantom V"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Ilang cylinders ang makina ng Cadillac V16?",
+      "options": ["8", "12", "16", "10"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Anong maximum horsepower ang kayang ibigay ng Cadillac V16 noong panahon nito?",
+      "options": ["120 hp", "160 hp", "185 hp", "200 hp"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Anong uri ng transmisyon ang gamit ng Cadillac V16?",
+      "options": ["3-speed manual", "4-speed manual", "Automatic", "Dual clutch"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anong natatanging disenyo ang meron sa Town Car Cabriolet?",
+      "options": ["Retractable hardtop", "Sunroof", "Four-wheel drive", "Bulletproof windows"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ano ang simbolismo ng Cadillac V16 bilang unang presidential car ng Pilipinas?",
+      "options": ["Simbolo ng karangyaan", "Simbolo ng modernisasyon at soberanya", "Simbolo ng Amerika", "Simbolo ng kolonya"],
+      "correctIndex": 1
+    }
+  ]
+}

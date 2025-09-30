@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Anong modelo ng sasakyan ang ginamit ni Corazon Aquino?",
+      "options": ["Mercedes-Benz 600", "Rolls-Royce Silver Shadow", "Lincoln Town Car", "Cadillac Fleetwood"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Anong taon nagsimula ang panunungkulan ni Corazon Aquino?",
+      "options": ["1985", "1986", "1987", "1988"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ano ang simbolismo ng Lincoln Town Car sa panahon ni Cory Aquino?",
+      "options": ["People Power at demokrasya", "Kapangyarihan at luho", "Pagiging kolonyal", "Eksklusibong pamahalaan"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ano ang pangunahing naging dahilan ng pag-upo ni Cory Aquino bilang Pangulo?",
+      "options": ["Halalan noong 1986", "EDSA People Power Revolution", "Pagkamatay ni Ninoy Aquino", "Pagbitiw ni Marcos"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ano ang mahalagang kontribusyon ng administrasyong Aquino?",
+      "options": ["Pagpapanumbalik ng demokrasya", "Paglipat ng Independence Day", "Pagtatatag ng Martial Law", "Pagpapalakas ng kolonyalismo"],
+      "correctIndex": 0
+    }
+  ]
+}

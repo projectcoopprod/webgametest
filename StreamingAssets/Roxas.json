@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Sino ang unang Pangulo ng Ikatlong Republika ng Pilipinas?",
+      "options": ["Jose P. Laurel", "Sergio Osmeña", "Manuel Roxas", "Elpidio Quirino"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Anong kotse ang ginamit ni Roxas?",
+      "options": ["Cadillac Series 75", "Packard Super Eight", "Chrysler Crown Imperial", "Lincoln Cosmopolitan"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anong taon nagsimula ang termino ni Roxas?",
+      "options": ["1945", "1946", "1947", "1948"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ilang pasahero ang kasya sa Cadillac Series 75?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ano ang simbolismo ng Cadillac Series 75 sa panahon ni Roxas?",
+      "options": ["Simbolo ng bagong republika", "Simbolo ng yaman", "Simbolo ng karangyaan", "Simbolo ng modernong agham"],
+      "correctIndex": 0
+    }
+  ]
+}

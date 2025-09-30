@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Anong bansag kay Ramon Magsaysay?",
+      "options": ["Ama ng Industriya", "Idolo ng Masa", "Ama ng Demokrasya", "Bayani ng EDSA"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anong sasakyan ang ginamit ni Magsaysay?",
+      "options": ["Cadillac Series 62", "Buick Limited", "Chevrolet Bel Air", "Lincoln Capri"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anong taon nagsimula ang termino ni Magsaysay?",
+      "options": ["1952", "1953", "1954", "1955"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ano ang makabagong tampok ng Cadillac Series 62?",
+      "options": ["Power steering at power brakes", "Electric windows", "Air conditioning", "Sunroof"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ano ang naging simbolo ng Cadillac Series 62?",
+      "options": ["Simplicity at pagiging maka-masa", "Kayamanan", "Kolonyalismo", "Eksklusibong kapangyarihan"],
+      "correctIndex": 0
+    }
+  ]
+}

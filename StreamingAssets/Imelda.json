@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Ilang piraso lamang ng Rolls-Royce Phantom V ang nagawa sa buong kasaysayan ng awtomobil?",
+      "options": ["316", "416", "516", "616"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ano ang makina ng Phantom V na ginamit ni Imelda Marcos?",
+      "options": ["4.0-liter V6", "6.2-liter V8", "5.5-liter V12", "3.0-liter Inline-6"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ilang pasahero ang kasya sa loob ng Phantom V?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Ano ang espesyal na tampok sa loob ng kotse?",
+      "options": ["Swimming pool sa loob", "Storage ng alak at tsampan", "Built-in karaoke", "Retractable roof"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Alin sa mga sumusunod na tanyag na tao ang nagmay-ari rin ng Rolls-Royce Phantom V?",
+      "options": ["Michael Jackson", "John Lennon", "Elvis Presley", "Frank Sinatra"],
+      "correctIndex": 1
+    }
+  ]
+}

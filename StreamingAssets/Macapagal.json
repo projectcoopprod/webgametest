@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Anong modelo ng sasakyan ang ginamit ni Diosdado Macapagal?",
+      "options": ["Cadillac Series 75", "Lincoln Continental", "Chrysler Imperial Crown", "Mercedes-Benz 600"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anong taon nagsimula ang termino ni Diosdado Macapagal?",
+      "options": ["1959", "1961", "1963", "1965"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ano ang kilalang kontribusyon ni Macapagal sa kasaysayan ng Pilipinas?",
+      "options": ["Paglipat ng Independence Day sa Hunyo 12", "Pagpapatupad ng Martial Law", "People Power Revolution", "EDSA Dos"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ilang pasahero ang kasya sa Lincoln Continental?",
+      "options": ["4", "5", "6", "7"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ano ang simbolismo ng Lincoln Continental?",
+      "options": ["Modernong liderato", "Pagkamaka-masa", "Matipid na pamahalaan", "Pagsalungat sa imperyalismo"],
+      "correctIndex": 0
+    }
+  ]
+}
